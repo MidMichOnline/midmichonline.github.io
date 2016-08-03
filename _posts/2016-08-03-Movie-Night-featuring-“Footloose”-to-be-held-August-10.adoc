@@ -8,7 +8,7 @@ tags:
 source-id: 1VsNb1lVVPFXlHhWmr1Ibo8-h1_ScjxSVl6a89Jsbf0g
 published: true
 ---
-![image alt text]({{ site.url }}/public/xN6YK3RznsQiBWY8GA7gJA_img_0.png)
+![image alt text](../public/xN6YK3RznsQiBWY8GA7gJA_img_0.png)
 
 # Movie Night featuring "Footloose" to be held August 10
 
