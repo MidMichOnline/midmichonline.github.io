@@ -4,7 +4,12 @@
     "repositoryName": "midmichonline.github.io",
     "branch": "master"
   },
+  "site": {
+    "title": "The Mid Michigan Journal",
+    "disqus": "midmichiganonline"
+  },
+  "socialnetwork": {},
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
